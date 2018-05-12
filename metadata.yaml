@@ -1,0 +1,47 @@
+_repo: Novelas-Cortas_15532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - Ariza, Pedro Antonio de Alarcón y
+    - Alarcon, Pedro Antonio de
+    - De Alarcón, Pedro Antonio
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+  editor:
+    agent_name: Giese, William F. (William Frederic)
+    alias: Giese, William Frederic
+    birthdate: 1864
+    gutenberg_agent_id: '6109'
+    url: http://www.gutenberg.org/2009/agents/6109
+description: 1. ser. Cuentos amatorios -- 2. ser. Historietas nacionales -- 3. ser.
+  Narraciones inverosímiles.
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15532'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish language -- Readers'
+- !lcsh 'Fiction'
+tableOfContents: Preface -- La buenaventura -- La corneta de llaves -- La corneta
+  de llaves -- Las dos glorias -- El afrancesado -- !Viva el papa! -- El extranjero
+  -- El libro talonario -- Moros y cristianos -- El año en Spitzberg -- Idiomatic
+  commentary -- Notes -- Exercises for translation into Spanish -- Vocabulary.
+title: Novelas Cortas
+url: http://www.gutenberg.org/ebooks/15532
